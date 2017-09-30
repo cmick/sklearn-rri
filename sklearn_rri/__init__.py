@@ -1,6 +1,18 @@
 """
 scikit-learn compatible classifier based on Reflective Random Indexing.
 
+Installation
+------------
+Latest from the `source <https://github.com/cmick/sklearn-rri>`_::
+
+    git clone https://github.com/cmick/sklearn-rri.git
+    cd sklearn-rri
+    python setup.py install
+
+Using `PyPI <https://pypi.python.org/pypi/sklearn-rri>`_::
+
+    pip install sklearn-rri
+
 Usage example
 -------------
 >>> from sklearn_rri import ReflectiveRandomIndexing

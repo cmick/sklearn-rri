@@ -6,30 +6,31 @@ Random Indexing (RRI) [1].
 
 Documentation
 -------------
-The documentation is hosted on <http://sklearn-rri.readthedocs.io/en/latest/>
+The documentation is hosted on http://sklearn-rri.readthedocs.io/
 
 Installation
 ------------
-Latest from the [source](https://github.com/cmick/sklearn-rri):
+Latest from the `source <https://github.com/cmick/sklearn-rri>`_::
 
     git clone https://github.com/cmick/sklearn-rri.git
     cd sklearn-rri
-    python setup.py sklearn-rri
+    python setup.py install
 
-Using [PyPI](https://pypi.python.org/pypi/sklearn-rri):
+Using `PyPI <https://pypi.python.org/pypi/sklearn-rri>`_::
 
     pip install sklearn-rri
 
-
-### Dependencies
+Dependencies
+------------
 sklearn-rri requires:
 
-- NumPy (>= 1.10.0)
-- SciPy (>= 0.14.0)
-- scikit-learn (>= 0.16.0)
+- NumPy (>= 1.11.0)
+- SciPy (>= 0.16.0)
+- scikit-learn (>= 0.17.0)
 
 Examples
 --------
+.. code :: pycon
 
     >>> from sklearn_rri import ReflectiveRandomIndexing
     >>> from sklearn.random_projection import sparse_random_matrix
