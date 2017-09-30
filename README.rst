@@ -1,3 +1,18 @@
+.. image:: https://img.shields.io/pypi/status/sklearn-rri.svg
+    :target: https://github.com/cmick/sklearn-rri
+
+.. image:: https://badge.fury.io/py/sklearn-rri.svg
+    :target: https://badge.fury.io/py/sklearn-rri
+
+.. image:: https://readthedocs.org/projects/sklearn-rri/badge
+   :target: http://sklearn-rri.readthedocs.io
+
+.. image:: https://img.shields.io/pypi/pyversions/sklearn-rri.svg
+   :target: https://pypi.python.org/pypi/sklearn-rri
+
+.. image:: https://img.shields.io/pypi/l/sklearn-rri.svg
+   :target: https://github.com/cmick/sklearn-rri/blob/master/LICENSE
+
 sklearn-rri
 ===========
 
