@@ -45,8 +45,8 @@ master_doc = 'index'
 # General information about the project.
 import sklearn_rri
 project = 'sklearn-rri'
-copyright = '2017, Michał Ciesielczyk'
-author = 'Michał Ciesielczyk'
+copyright = '2017, Michal Ciesielczyk'
+author = 'Michal Ciesielczyk'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
