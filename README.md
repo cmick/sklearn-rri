@@ -4,6 +4,10 @@ sklearn-rri
 Python package providing scikit-learn compatible classifier based on Reflective
 Random Indexing (RRI) [1].
 
+Documentation
+-------------
+The documentation is hosted on <http://sklearn-rri.readthedocs.io/>
+
 Examples
 --------
 
